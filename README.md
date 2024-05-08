@@ -1,12 +1,15 @@
 # awesome-animal-tracking
 
 ## Environmental 
-remora
-raadtools
-heatwaveR
+- remora
+- raadtools
+- heatwaveR
 
 ## GLS
-SGAT
+- SGAT
 
-## Movement
-triapse
+## Locations
+- foiegras
+
+## Movement summary metrics
+- triapse
