@@ -10,6 +10,7 @@
 
 ## Locations
 - [aniMotum](https://github.com/ianjonsen/aniMotum) (previously foiegras)
+- [seaTracks](https://github.com/davo-b-green/seaTracks) - Dowloading, compiling and processing satellite biotelemetry data from the Sea Mammal Research Unit (SMRU) Data Portal
 
 ## Movement summary metrics
 - [triapse](https://github.com/Trackage/traipse)
