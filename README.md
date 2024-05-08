@@ -9,7 +9,9 @@
 - SGAT
 
 ## Locations
-- [aniMotum](https://github.com/ianjonsen/aniMotum) (previously foiegras)
+- [aniMotum](https://github.com/ianjonsen/aniMotum) - fit latent variable movement models to animal tracking data
+
+
 - [seaTracks](https://github.com/davo-b-green/seaTracks) - Dowloading, compiling and processing satellite biotelemetry data from the Sea Mammal Research Unit (SMRU) Data Portal
 
 ## Movement summary metrics
