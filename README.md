@@ -24,3 +24,7 @@
 - marmap
 - mapview (interactive maps)
 - [KUD3D](https://github.com/vinayudyawer/KUD3D) - A helper R package to estimate and interactively visualise 3D KUD models of animal telemetry data.
+
+## Analysis
+- [track2KBA](https://github.com/BirdLifeInternational/track2kba) - tools to identify significant animal aggregations for conservation by analyzing tracking data, summarizing foraging trips, estimating utilisation distributions, and pinpointing key aggregation areas.
+
