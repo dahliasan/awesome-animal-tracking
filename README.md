@@ -1,6 +1,6 @@
 # awesome-animal-tracking
 
-## R Packages
+## R Packages (tools to do things)
 ### Environment data extraction
 - [remora](https://github.com/IMOS-AnimalTracking/remora)
 - [raadtools](https://github.com/AustralianAntarcticDivision/raadtools)
@@ -30,5 +30,11 @@
 - [trakR](https://github.com/abfleishman/trakR) - split trips, calculate trip fidelity.
 
 
-# Learning Resources
+# R Learning Resources (how to do things)
 - [RSpatial](https://rspatial.org/) - learn spatial data analysis and modeling with R including species distribution modelling.
+- [Light-level geolocation analyses](https://geolocationmanual.vogelwarte.ch/)
+- [Modern data visualisation](https://rkabacoff.github.io/datavis/)
+- [R for data science](https://r4ds.hadley.nz/)
+
+# R tools
+- [R color palette picker](https://r-graph-gallery.com/color-palette-finder) - time saver!!!
