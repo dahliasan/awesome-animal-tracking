@@ -6,7 +6,7 @@
 - [heatwaveR](https://robwschlegel.github.io/heatwaveR/)
 
 ## GLS
-- SGAT 
+- [SGAT](https://github.com/SWotherspoon/SGAT) - for filering and smoothing GLS locations 
 
 ## Locations
 - [aniMotum](https://github.com/ianjonsen/aniMotum) - fit latent variable movement models to animal tracking data
